@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1792417162571",
+    "title": "API geliştirme",
+    "description": "Görev CRUD endpointlerini hazırla",
+    "priority": "normal",
+    "assignee": "Batuhan",
+    "status": "pending",
+    "createdAt": "2026-10-19T13:39:22.571Z",
+    "updatedAt": "2026-10-19T13:40:56.076Z"
+  },
+  {
+    "id": "1792443325924",
+    "title": "API geliştirme",
+    "description": "Görev CRUD endpointlerini hazırla",
+    "priority": "normal",
+    "assignee": "Batuhan",
+    "status": "pending",
+    "createdAt": "2026-10-19T20:55:25.924Z",
+    "updatedAt": "2026-10-19T20:55:25.924Z"
+  }
+]
