@@ -31,7 +31,7 @@ Görev gövdesi JSON formatındadır. Örnek:
 ```json
 {
   "title": "API geliştirme",
-  "description": "Görev CRUD endpointlerini hazırla",
+  "description": "Görev1: CRUD endpointlerini hazırla",
   "priority": "high",
   "assignee": "Batuhan Orhan",
   "status": "pending"
