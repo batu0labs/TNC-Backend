@@ -44,6 +44,3 @@ Veriler eğitim projesinin temel veri yönetimi amacıyla `src/data/tasks.json` 
 
 Her isteğin zaman damgası, HTTP metodu ve endpoint bilgisi konsola yazdırılır.
 
-## Test
-
-Temel CRUD akışı Postman ile sırasıyla POST, GET liste, GET detay, PUT ve DELETE istekleri kullanılarak test edilmelidir.
